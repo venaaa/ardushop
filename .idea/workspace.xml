@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62852211-6290-4758-b927-93e0373f1196" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ardushop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ardushop/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ardushop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ardushop/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/landing/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/landing/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing/static/css/landing.css" beforeDir="false" afterPath="$PROJECT_DIR$/landing/static/css/landing.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing/templates/landing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/landing/templates/landing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/landing/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +19,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -87,7 +91,8 @@
       <option name="presentableId" value="Default" />
       <updated>1593145468396</updated>
       <workItem from="1593145469926" duration="92000" />
-      <workItem from="1593145845561" duration="4732000" />
+      <workItem from="1593145845561" duration="5027000" />
+      <workItem from="1593209580298" duration="4649000" />
     </task>
     <servers />
   </component>
@@ -95,9 +100,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1593145868760">
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593209813712">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1280.52.1280.984@0.0.1920.1040" timestamp="1593145868760" />
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1280.52.1280.984@0.0.1920.1040" timestamp="1593209813712" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1593209695176">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1280.52.1280.984@0.0.1920.1040" timestamp="1593209695176" />
   </component>
 </project>

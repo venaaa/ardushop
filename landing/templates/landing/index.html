@@ -11,9 +11,25 @@
     <title>Coming soon</title>
 </head>
 <body>
-    <h1>Hello {{ name }}</h1>
-    <h2>How are you ?</h2>
-    <h3>Сейчас {{ now }}</h3>
+
+    <div class="container">
+        <div class="wrapper">
+            <div class="row">
+                <div class="col-12 text-center mt-5">
+                    <h1>Hello {{ name }}</h1>
+                    <h2>How are you ?</h2>
+                    <h3>Сейчас {{ now }}</h3>
+                    <div class="form-block mt-5">
+                        <form action="" method="post">
+                            {% csrf_token %}
+                            {{ form.as_p }}
+                            <button type="submit" class="btn btn-primary">Send</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
